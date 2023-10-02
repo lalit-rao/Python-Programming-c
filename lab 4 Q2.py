@@ -13,6 +13,8 @@
 # answer = series2(n)
 # print(f"The sum of the series for {n} terms is: {answer}")
 
+
+
 def series2(n):
     sum = 0
     fact = 1
